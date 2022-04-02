@@ -1,5 +1,6 @@
 # Spam Text Classifier
 
+![spam sms classification](https://user-images.githubusercontent.com/75767390/161378410-abb0bac4-01ed-4af3-9df4-d9001ac1d6e0.png)
 Didalam peoject ini saya akan membuat spam text classification menggunakan algoritma Logistic Regresion. Tujuan dari project ini adalah untuk melakukan classification sms yang berjenis <b>spam atau bukan spam</b>
 
 untuk notebook yang lebih lengkap bisa di akses [disini](https://nbviewer.org/github/rizalfadiaalfikri/Spam-Text-Classifier/blob/main/Spam%20Text%20Classifier.ipynb)
